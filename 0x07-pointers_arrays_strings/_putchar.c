@@ -1,4 +1,4 @@
-#include <unistid.h>
+#include <unistd.h>
 
 /**
  * _putchar - writes the character c to school
