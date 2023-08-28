@@ -1,0 +1,14 @@
+#include <unistid.h>
+
+/**
+ * _putchar - writes the character c to school
+ * @c: The character to print
+ *
+ * Return: On success 1.
+ * On error, -1 is returned, and arrno is set appropriately.
+ */
+
+int _putchar(char c)
+{
+	return (write(1, &c, 1));
+}
