@@ -1,1 +1,1 @@
-this is the repository of this project
+This is my directory
